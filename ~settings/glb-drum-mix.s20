@@ -484,7 +484,7 @@ crmat 1
 "China1" ""
 "China2" "19Chinese5_1"
 "Splash1" ""
-"Spock" ""
+"Spock" "16-19Spock"
 "Cowbell" ""
 "CountIn" ""
 }
@@ -2158,7 +2158,7 @@ route 0
 }
 Tom4 {
 pan 0.25
-volume 1.89201
+volume 3.98107
 phasereverse 0
 effect 0 {
 effect 1
@@ -2186,7 +2186,7 @@ active 1
 1 0.245633
 2 0.458397
 3 0.0526316
-4 0
+4 0.0859207
 5 1
 }
 nobleed 0
@@ -2198,7 +2198,7 @@ route 0
 }
 Tom5 {
 pan 0.074444
-volume 2.10415
+volume 3.98107
 phasereverse 0
 effect 0 {
 effect 1
@@ -2226,7 +2226,7 @@ active 1
 1 0.245633
 2 0.458397
 3 0.0526316
-4 0
+4 0.0946665
 5 1
 }
 nobleed 0
