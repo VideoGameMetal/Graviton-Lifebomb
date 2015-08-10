@@ -1777,7 +1777,7 @@ m "Snare Stack" 38
 mixer {
 Kick-R {
 pan 0.5
-volume 2.34008
+volume 2.10415
 phasereverse 0
 effect 0 {
 effect 1
@@ -1844,7 +1844,7 @@ route 16
 }
 KickExt {
 pan 0.5
-volume 1.89201
+volume 1.52973
 phasereverse 0
 effect 0 {
 effect 2
@@ -1865,7 +1865,7 @@ route 16
 }
 SnareTop-C {
 pan 0.5
-volume 0.808523
+volume 0.899179
 phasereverse 0
 effect 0 {
 effect 1
@@ -1873,15 +1873,15 @@ active 1
 0 0.5
 1 0.405555
 2 0.111111
-3 0.5
-4 0.349392
+3 0.722222
+4 0.402209
 5 0.12
-6 0.388889
-7 0.450981
+6 0.333333
+7 0.457517
 8 0.31
-9 0.638889
-10 0.604717
-11 0.270001
+9 0.75
+10 0.583327
+11 0.9
 12 0.616667
 13 0.444761
 14 0.111111
@@ -1905,7 +1905,7 @@ route 17
 }
 SnareTop-D {
 pan 0.5
-volume 1.70125
+volume 1.23682
 phasereverse 0
 effect 0 {
 effect 1
@@ -1955,7 +1955,7 @@ volume 0.727007
 }
 SnareBottom-C {
 pan 0.5
-volume 0.310676
+volume 0.427336
 phasereverse 0
 nobleed 0
 xtrafade 0
@@ -1966,7 +1966,7 @@ route 17
 }
 SnareBottom-D {
 pan 0.5
-volume 0.808523
+volume 0.899179
 phasereverse 0
 effect 0 {
 effect 4
